@@ -4,4 +4,5 @@ node_modules/
 *.wtns
 *.r1cs
 *.sym
-*_js/
+*_js/artifacts/
+cache/
